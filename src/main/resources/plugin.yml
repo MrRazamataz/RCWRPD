@@ -1,0 +1,10 @@
+name: "RCWRPD"
+version: "0.0.1"
+main: "raza.$rcwrpd.PluginMain"
+api-version: 1.13
+authors: [MrRazamataz]
+description: "Run a command when a resource pack downloads sucesfully"
+prefix: "RCWRPD"
+website: "mrrazamataz.ga"
+commands:
+permissions:
